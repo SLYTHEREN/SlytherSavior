@@ -15,6 +15,7 @@ I began my IT journey in grade 7 and have since been passionately exploring vari
 - **Databases:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 - **Other Technologies:** ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 - **Currently Learning:** Full Stack Development, especially backend
+- **Currently Working On:** Apple iphone clong ( Three js, GSAP, React ) , Portfolio Website ( Gsap, React ) 
 
 ### Tools & Software
 - **IDEs & Code Editors:** ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
